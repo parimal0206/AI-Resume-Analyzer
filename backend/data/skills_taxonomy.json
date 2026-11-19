@@ -1,0 +1,58 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "C", "Go", "Golang", "Rust", "Ruby", "PHP",
+    "Swift", "Kotlin", "Scala", "R", "Dart", "Elixir", "Clojure", "Haskell", "Perl", "Lua", "Julia", "Shell",
+    "Bash", "PowerShell", "SQL", "HTML", "HTML5", "CSS", "CSS3", "Sass", "SCSS", "GraphQL", "Solidity"
+  ],
+  "frameworks_and_libraries": [
+    "React", "React.js", "Next.js", "Vue", "Vue.js", "Nuxt.js", "Angular", "Svelte", "Node.js", "Express.js",
+    "NestJS", "Django", "Django REST Framework", "Flask", "FastAPI", "Spring Boot", "Spring", "ASP.NET",
+    ".NET Core", "Ruby on Rails", "Laravel", "Symfony", "Tailwind CSS", "Bootstrap", "Material-UI", "Chakra UI",
+    "Redux", "Zustand", "MobX", "RxJS", "jQuery", "Electron", "React Native", "Flutter", "Ionic", "Pandas",
+    "NumPy", "SciPy", "Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "Hugging Face", "LangChain", "LlamaIndex",
+    "OpenCV", "NLTK", "spaCy", "JAX", "Matplotlib", "Seaborn", "Plotly", "D3.js", "Three.js"
+  ],
+  "cloud_and_devops": [
+    "AWS", "Amazon Web Services", "Azure", "Microsoft Azure", "Google Cloud", "GCP", "Docker", "Kubernetes",
+    "Terraform", "Ansible", "Puppet", "Chef", "Jenkins", "GitHub Actions", "GitLab CI", "CircleCI", "ArgoCD",
+    "Helm", "Prometheus", "Grafana", "ELK Stack", "Elasticsearch", "Logstash", "Kibana", "Splunk", "Datadog",
+    "New Relic", "Nginx", "Apache", "Cloudflare", "OpenTelemetry", "Serverless", "AWS Lambda", "Google Cloud Run",
+    "Linux", "Ubuntu", "Debian", "CentOS", "RedHat", "CI/CD", "Infrastructure as Code", "IaC", "SRE"
+  ],
+  "databases_and_storage": [
+    "PostgreSQL", "MySQL", "MariaDB", "SQLite", "Oracle", "Microsoft SQL Server", "MSSQL", "MongoDB", "Redis",
+    "Cassandra", "DynamoDB", "Couchbase", "Neo4j", "Firebase", "Supabase", "Snowflake", "BigQuery", "Redshift",
+    "ClickHouse", "Elasticsearch", "Pinecone", "Milvus", "ChromaDB", "Qdrant", "Weaviate", "Apache Kafka",
+    "RabbitMQ", "ActiveMQ", "Celery"
+  ],
+  "ai_ml_data": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing", "NLP", "Computer Vision", "Generative AI",
+    "Large Language Models", "LLM", "Prompt Engineering", "Fine-Tuning", "RAG", "Retrieval Augmented Generation",
+    "Data Engineering", "Data Analysis", "Data Science", "ETL", "Apache Spark", "Databricks", "Apache Airflow",
+    "dbt", "Tableau", "Power BI", "Looker", "A/B Testing", "Feature Engineering", "Model Evaluation", "MLOps",
+    "Vector Databases", "Statistical Analysis", "Predictive Modeling", "Reinforcement Learning"
+  ],
+  "software_engineering_practices": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "RESTful APIs", "REST API", "GraphQL API", "gRPC", "WebSockets",
+    "Microservices", "Monolith", "Event-Driven Architecture", "Domain-Driven Design", "DDD", "Test-Driven Development",
+    "TDD", "Unit Testing", "Integration Testing", "End-to-End Testing", "E2E Testing", "Jest", "Pytest", "Cypress",
+    "Playwright", "Selenium", "Agile", "Scrum", "Kanban", "Jira", "Confluence", "Clean Code", "Design Patterns",
+    "Object-Oriented Programming", "OOP", "Functional Programming", "System Design", "Scalability", "High Availability"
+  ],
+  "product_design": [
+    "Figma", "Adobe XD", "Sketch", "InVision", "UI Design", "UX Design", "Wireframing", "Prototyping",
+    "User Research", "Usability Testing", "Design Systems", "Interaction Design", "Information Architecture",
+    "Product Management", "Roadmapping", "User Stories", "User Journey Mapping", "Competitive Analysis"
+  ],
+  "finance_business": [
+    "Financial Modeling", "Accounting", "Valuation", "Budgeting", "Forecasting", "Risk Management",
+    "Corporate Finance", "Portfolio Management", "Equity Research", "Financial Analysis", "Auditing",
+    "QuickBooks", "SAP", "ERP", "Capital Markets", "Derivatives", "Compliance", "Taxation", "Excel Modeling"
+  ],
+  "marketing_sales": [
+    "SEO", "Search Engine Optimization", "SEM", "Google Analytics", "Google Ads", "Content Marketing",
+    "Social Media Marketing", "Email Marketing", "CRM", "HubSpot", "Salesforce", "Customer Acquisition",
+    "Copywriting", "Performance Marketing", "Conversion Rate Optimization", "CRO", "Growth Hacking",
+    "B2B Sales", "Lead Generation", "Brand Strategy"
+  ]
+}

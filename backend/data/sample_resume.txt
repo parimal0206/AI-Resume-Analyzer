@@ -1,0 +1,32 @@
+Alex Johnson
+alex.johnson.dev@gmail.com | +1 (555) 234-5678
+San Francisco, CA | linkedin.com/in/alexjohnson-dev | github.com/alexjohnson
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 6+ years of experience building scalable backend microservices, high-throughput APIs, and cloud-native applications. Proven track record of optimizing database performance, leading cross-functional engineering teams, and reducing cloud infrastructure costs by 35%.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, Go, SQL
+Frameworks & Libraries: FastAPI, Django, React, Node.js, Express.js
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+Databases & Storage: PostgreSQL, Redis, MongoDB, DynamoDB
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer | CloudScale Systems (2021 - Present)
+- Architected and deployed microservices in Python and Go, handling over 10M daily requests with 99.99% uptime.
+- Optimized PostgreSQL query performance and caching strategies using Redis, reducing API response latency by 45%.
+- Spearheaded the migration of legacy monolithic infrastructure to AWS Kubernetes clusters using Terraform, cutting cloud hosting costs by $40k annually.
+- Mentored 5 junior engineers and led code review standards across the core platform team.
+
+Software Engineer | TechVenture Labs (2018 - 2021)
+- Developed RESTful APIs and backend services using FastAPI and PostgreSQL.
+- Implemented CI/CD pipelines via GitHub Actions, reducing deployment time from 45 minutes to 8 minutes.
+- Collaborated with product managers to design scalable features for the core analytics product used by 50k+ active users.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley (2014 - 2018)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect Associate
+- Certified Kubernetes Application Developer (CKAD)

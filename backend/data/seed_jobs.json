@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "TechCorp Inc",
+    "description": "We are looking for a Senior Software Engineer to join our core platform team. You will design and implement scalable microservices using Python, Go, and Kubernetes. Responsibilities include system architecture, code reviews, and mentoring junior engineers. Strong experience with distributed systems, AWS, and CI/CD pipelines required.",
+    "location": "San Francisco, CA",
+    "salary_range": "$150,000 - $220,000",
+    "required_skills": ["Python", "Go", "Kubernetes", "AWS", "Docker", "Microservices", "PostgreSQL", "Redis", "CI/CD", "System Design"],
+    "experience_level": "Senior",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  },
+  {
+    "title": "Frontend Engineer (React/TypeScript)",
+    "company": "PixelPerfect Labs",
+    "description": "Join our product team building beautiful, responsive web applications. You'll work with React, TypeScript, Next.js, and Tailwind CSS. We value clean code, accessibility, and performance optimization. Experience with state management (Redux/Zustand) and testing (Jest/Cypress) is a plus.",
+    "location": "New York, NY",
+    "salary_range": "$120,000 - $170,000",
+    "required_skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "Redux", "Jest", "Cypress"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Remote"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "DataFlow AI",
+    "description": "Build and deploy production ML models at scale. You'll work with TensorFlow, PyTorch, and modern MLOps tools (MLflow, Kubeflow). Focus on NLP, computer vision, and recommendation systems. PhD or MS in CS/Statistics preferred. Strong Python and cloud experience required.",
+    "location": "Seattle, WA",
+    "salary_range": "$140,000 - $200,000",
+    "required_skills": ["Python", "TensorFlow", "PyTorch", "MLOps", "MLflow", "Kubeflow", "NLP", "Computer Vision", "AWS", "Docker", "Kubernetes"],
+    "experience_level": "Senior",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudScale Systems",
+    "description": "Automate infrastructure and deployment pipelines for high-availability systems. Expert knowledge of AWS, Terraform, Kubernetes, and monitoring stack (Prometheus, Grafana). Implement GitOps workflows and improve developer experience. On-call rotation required.",
+    "location": "Austin, TX",
+    "salary_range": "$130,000 - $180,000",
+    "required_skills": ["AWS", "Terraform", "Kubernetes", "Docker", "Prometheus", "Grafana", "GitHub Actions", "GitLab CI", "Linux", "Python", "Helm", "ArgoCD"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Remote"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Insight Analytics",
+    "description": "Analyze complex datasets to drive business decisions. Build predictive models, create dashboards, and communicate insights to stakeholders. Expert in SQL, Python (Pandas, Scikit-Learn), and visualization (Tableau, Power BI). Experience with A/B testing and experimentation.",
+    "location": "Chicago, IL",
+    "salary_range": "$110,000 - $150,000",
+    "required_skills": ["Python", "SQL", "Pandas", "Scikit-Learn", "Tableau", "Power BI", "A/B Testing", "Statistics", "Machine Learning", "Data Visualization"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "StartupXYZ",
+    "description": "Fast-paced startup seeking a versatile Full Stack Developer. You'll own features end-to-end using React, Node.js, PostgreSQL, and AWS. Must be comfortable with ambiguity and rapid iteration. Equity package included.",
+    "location": "Remote",
+    "salary_range": "$100,000 - $140,000",
+    "required_skills": ["React", "Node.js", "Express.js", "PostgreSQL", "AWS", "JavaScript", "TypeScript", "Docker", "Git", "REST API"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Remote"
+  },
+  {
+    "title": "Backend Engineer (Java/Spring Boot)",
+    "company": "FinTech Solutions",
+    "description": "Build robust financial services APIs. Deep expertise in Java, Spring Boot, PostgreSQL, and Kafka required. Experience with event-driven architecture, distributed transactions, and regulatory compliance. Strong testing practices essential.",
+    "location": "Boston, MA",
+    "salary_range": "$130,000 - $180,000",
+    "required_skills": ["Java", "Spring Boot", "PostgreSQL", "Kafka", "Microservices", "Docker", "Kubernetes", "AWS", "JUnit", "Event-Driven Architecture"],
+    "experience_level": "Senior",
+    "job_type": "Full-time",
+    "remote_type": "Onsite"
+  },
+  {
+    "title": "Product Designer",
+    "company": "DesignFirst Studio",
+    "description": "Create intuitive user experiences for B2B SaaS products. Lead design process from research to high-fidelity prototypes. Expert in Figma, design systems, and user research methodologies. Collaborate closely with product and engineering teams.",
+    "location": "Los Angeles, CA",
+    "salary_range": "$110,000 - $160,000",
+    "required_skills": ["Figma", "UI Design", "UX Design", "Wireframing", "Prototyping", "User Research", "Design Systems", "Interaction Design", "Information Architecture"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  },
+  {
+    "title": "Mobile Engineer (iOS)",
+    "company": "AppVentures",
+    "description": "Build best-in-class iOS applications using Swift and SwiftUI. Experience with Core Data, Combine, and modern iOS architectures (MVVM, Clean Architecture). App Store deployment and CI/CD for mobile required.",
+    "location": "Denver, CO",
+    "salary_range": "$120,000 - $165,000",
+    "required_skills": ["Swift", "SwiftUI", "iOS", "Core Data", "Combine", "MVVM", "Xcode", "Git", "CI/CD", "REST API"],
+    "experience_level": "Mid",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  },
+  {
+    "title": "Security Engineer",
+    "company": "SecureNet",
+    "description": "Protect infrastructure and applications from threats. Conduct penetration testing, vulnerability assessments, and security audits. Implement security controls and incident response procedures. CISSP or OSCP certification preferred.",
+    "location": "Washington, DC",
+    "salary_range": "$140,000 - $200,000",
+    "required_skills": ["Penetration Testing", "Vulnerability Assessment", "Security Auditing", "Incident Response", "AWS Security", "Kubernetes Security", "Python", "Go", "CISSP", "OSCP"],
+    "experience_level": "Senior",
+    "job_type": "Full-time",
+    "remote_type": "Hybrid"
+  }
+]
